@@ -1,0 +1,9 @@
+# Ignore virtual environment
+venv/
+
+# Ignore log files
+*.log
+
+# Ignore Excel files
+*.xlsx
+
